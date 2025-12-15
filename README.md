@@ -1,0 +1,1 @@
+This project models a stable fourth order linear time invariant system in MATLAB Simulink and uses the simulated input-ouput data to train a deep neural network. The trained network learns the system dynamics and accurately predicts the output response, with performance evaluated under different training sizes, activation functions, and network architectures.
